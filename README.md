@@ -2,13 +2,16 @@
 
 ## Skills
 - SQL advanced
-- PostgreSQL and MySQL RDBMSs
+- RDBMSs: PostgreSQL and MySQL 
 - Linux
 - Python
 - Airflow
+- Version Control: Git and GitHup
+- Docker
 - Data Engineering
 
 ## Current Projects
 - Retail Sales Database
+- Data Warehouse
 - PostgreSQL Administration Labs
 - Linux Automation Scripts
